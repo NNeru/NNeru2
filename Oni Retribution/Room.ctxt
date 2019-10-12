@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=pDesc
+comment1.target=Room(java.lang.String)
+comment1.text=\r\n\ cr\u00E9e\ un\ lieu\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ Donne\ acc\u00E8s\ \u00E0\ la\ description\ d'un\ lieu\r\n
+comment3.params=pDirection
+comment3.target=Room\ getExit(java.lang.String)
+comment3.text=\r\n\ Permet\ d'avoir\ acc\u00E8s\ aux\ sorties\ de\ chaque\ lieux\r\n
+comment4.params=pDirection\ pLieuVoisin
+comment4.target=void\ setExits(java.lang.String,\ Room)
+comment4.text=\r\n\ Cr\u00E9er\ les\ sorties\ de\ chaque\ lieux\r\n
+comment5.params=
+comment5.target=java.lang.String\ getExitString()
+comment5.text=\r\n\ Methode\ qui\ retourne\ la\ liste\ de\ toutes\ les\ sorties\ de\ la\ pi\u00E8ce\r\n
+numComments=6
